@@ -12,5 +12,5 @@ You can click the Preview link to take a look at your changes.
 </h3>
 
 <p align="center">
-  <img height="150" width="400" src="https://github-readme-stats.vercel.app/api?username=DavidTheWolfLover" />
+  <img height="150" width="400" src="https://github-readme-stats.vercel.app/api?username=DavidTheWolfLover&hide=contribs,prs" />
 </p>
