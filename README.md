@@ -3,7 +3,7 @@ DavidTheWolfLover/DavidTheWolfLover is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=45&duration=3000&pause=1000&color=00F7BC&center=true&vCenter=true&width=435&height=60&lines=Hello%2C+I'm+Khoa+Cao!+" alt="Typing SVG" /></a>
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Secular+One&weight=600&size=45&duration=3000&color=7286D3&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Khoa+Cao!+"/></a></h1>
 
 <h3 align="center"> CS @ UW–Madison</h3>
 
