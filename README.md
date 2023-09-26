@@ -3,7 +3,7 @@ DavidTheWolfLover/DavidTheWolfLover is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=45&duration=3000&color=00F7BC&center=true&vCenter=true&width=450&lines=Hello%2C+I'm+Khoa+Cao!+"/></a></h1>
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=45&duration=3000&color=00F7BC&center=true&vCenter=true&width=450&lines=lines=Hello%2C+I'm+Khoa+Cao%F0%9F%91%8B!"/></a></h1>
 
 <h3 align="center"> CS @ UW–Madison</h3>
 
