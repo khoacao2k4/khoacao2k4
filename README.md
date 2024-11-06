@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=45&duration=3000&pause=2000&color=00F7BC&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Khoa+Cao%F0%9F%91%8B!" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=45&duration=3000&pause=2000&color=00F7BC&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Khoa+Cao%F0%9F%91%8B!" alt="Typing SVG" /></a>
 
 <h3 align="center" style="margin-bottom: 12px;">
   <a href="https://www.linkedin.com/in/khoacao2k4/" target="_blank">LinkedIn</a> · <a href="https://drive.google.com/file/d/1t59xkC1-a9wi2WVEYsDOUvJTa3j6e9iX/view?usp=sharing">Resume</a> · <a href="mailto:cqnhatkhoa@gmail.com">Email</a>  
