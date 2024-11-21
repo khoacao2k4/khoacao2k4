@@ -17,6 +17,12 @@ Welcome to my GitHub profile! I'm a Computer Science student at the University o
 
 ## 🛠️ Highlighted Projects
 
+### 👗 FashionistAI
+*Tech Stack: MongoDB, OpenAI API, Flask, React Native, Kaggle*
+* Built an AI-powered app for context-based outfit recommendations with 90% accuracy, enabling users to organize and manage 50+ wardrobe items efficiently.
+* Leveraged Kaggle and Flask to build a machine-learning pipeline using Kaggle, achieving 95% classification accuracy in classifying clothing items by category and season.
+
+
 ### 🚀 Workspace Manager
 *Tech Stack: Python, MongoDB, Clack.JS*  
 * Developed a Command Line Interface program for single-click access to applications and tools, with 30+ downloads.
