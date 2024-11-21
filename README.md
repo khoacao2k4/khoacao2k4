@@ -38,6 +38,7 @@ Welcome to my GitHub profile! I'm a Computer Science student at the University o
 * Engineered AI evaluation functions and node-finding algorithms for ghost AI to catch players, surpassing 75% of playtesters on first try and 55% on second try, tested with 250+ players.
 
 ## 🏆 Awards
+* **CheeseHacks (Google-sponsored)** – Top 10 (2024)
 * **Machine Learning Marathon** – Third Prize (2024)
 * **AngelHack hackhcmc** – Finalists (2024)
 * **MadHacks** – Finalists (2023)  
