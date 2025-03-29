@@ -8,37 +8,29 @@ Welcome to my GitHub profile! I'm a Computer Science student at the University o
 
 ## 🚀 About Me
 * 🎓 Computer Science Student @ University of Wisconsin-Madison (Graduating May 2026)
-* 🔬 Undergraduate Research Assistant @ UW-Madison, Computer Engineering Dept. (Aug 2024 - Present)
+* 📱 Software Developer of Backend/AI team @ Lyntra LLC. (Feb 2025 - Present)
+* 🔬 Undergraduate Research Assistant @ UW-Madison, Computer Engineering Dept. (Aug 2024 - Dec 2024)
 * 🌏 Software Engineer Intern @ Rockship, Singapore (May 2024 - Aug 2024)
 * 📘 Computer Science Tutor @ UW-Madison (Jan 2024 - Present)
 * 🤖 Micromouse Research Assistant @ VNU-HCM University of Science, Robotics & IoT Club (May 2022 - Aug 2022)
 
 * 💻 Experienced in full-stack development, machine learning, and data-driven solutions.
 
-## 🛠️ Highlighted Projects
-
-### 👗 FashionistAI
-*Tech Stack: MongoDB, OpenAI API, Flask, React Native, Kaggle*
-* Built an AI-powered app for context-based outfit recommendations with 90% accuracy, enabling users to organize and manage 50+ wardrobe items efficiently.
-* Leveraged Kaggle and Flask to build a machine-learning pipeline, achieving 95% accuracy in classifying clothing items by category and season.
-
-
-### 🚀 Workspace Manager
-*Tech Stack: Python, MongoDB, Clack.JS*  
-* Developed a Command Line Interface program for single-click access to applications and tools, with 30+ downloads.
-* Improved data handling efficiency and security with MongoDB, accelerating user settings retrieval by 25%.
-
-### 🎮 3D Tetris Game
-*Tech Stack: C#, Blender, Unity*  
-* Coordinated a team of 4 students to develop a 3D Tetris game with 10+ levels, gathering positive feedback from 200+ play testers.
-* Designed 10+ Tetris block models and GUI using Blender, developing efficient algorithms for block dropping, spawning, and deletion.
-
-### 👻 Pacman Reborn
-*Tech Stack: Python, Pygame, Tkinter*  
-* Engineered AI evaluation functions and node-finding algorithms for ghost AI to catch players, surpassing 75% of playtesters on first try and 55% on second try, tested with 250+ players.
-
 ## 🏆 Awards
+* **MadData - AI/ML Hackathon** – Finalists (2025)
 * **CheeseHacks (Google-sponsored)** – Top 10 (2024)
 * **Machine Learning Marathon** – Third Prize (2024)
 * **AngelHack hackhcmc** – Finalists (2024)
-* **MadHacks** – Finalists (2023)  
+* **MadHacks** – Finalists (2023)
+
+## 🧰 Languages and Tools
+
+### 🖥️ Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)  
+
+### 📚 Frameworks & Libraries  
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  ![Langchain](https://img.shields.io/badge/Langchain-000000?style=for-the-badge&logo=langchain&logoColor=white)  
+
+### 🛠 Developer Tools  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
