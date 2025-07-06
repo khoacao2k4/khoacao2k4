@@ -8,13 +8,14 @@ Welcome to my GitHub profile! I'm a Computer Science student at the University o
 
 ## 🚀 About Me
 * 🎓 Computer Science Student @ University of Wisconsin-Madison (Graduating May 2026)
-* 📱 Software Developer of Backend/AI team @ Lyntra LLC. (Feb 2025 - Present)
+* 🧑‍💻 Software Engineer Intern @ Congero Technology Group (May 2025 - Present)
+* 📱 Software Developer of Backend/AI team @ Lyntra LLC. (Feb 2025 - May 2025)
 * 🔬 Undergraduate Research Assistant @ UW-Madison, Computer Engineering Dept. (Aug 2024 - Dec 2024)
 * 🌏 Software Engineer Intern @ Rockship, Singapore (May 2024 - Aug 2024)
 * 📘 Computer Science Tutor @ UW-Madison (Jan 2024 - Present)
 * 🤖 Micromouse Research Assistant @ VNU-HCM University of Science, Robotics & IoT Club (May 2022 - Aug 2022)
 
-* 💻 Experienced in full-stack development, machine learning, and data-driven solutions.
+* 💻 Experienced in backend development (+ a little of frontend development), AI/machine learning, and data-driven solutions.
 
 ## 🏆 Awards
 * **MadData - AI/ML Hackathon** – Finalists (2025)
