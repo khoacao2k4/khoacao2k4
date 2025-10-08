@@ -7,7 +7,7 @@
 Welcome to my GitHub profile! I'm a Computer Science student at the University of Wisconsin-Madison, passionate about creating impactful software solutions. I am particularly interested in Artificial Intelligence and Machine Learning, with a goal of applying innovative approaches to the healthcare industry. 
 
 ## 🚀 About Me
-* 🎓 Computer Science Student @ University of Wisconsin-Madison (Graduating May 2026)
+* 🎓 Computer Science Student @ University of Wisconsin-Madison (Graduating 2026)
 * 🧑‍💻 Software Engineer Intern @ Congero Technology Group (May 2025 - Present)
 * 📱 Software Developer of Backend/AI team @ Lyntra LLC. (Feb 2025 - May 2025)
 * 🔬 Undergraduate Research Assistant @ UW-Madison, Computer Engineering Dept. (Aug 2024 - Dec 2024)
