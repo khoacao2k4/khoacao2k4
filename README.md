@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/khoacao2k4/" target="_blank">LinkedIn</a> · <a href="https://drive.google.com/file/d/1t59xkC1-a9wi2WVEYsDOUvJTa3j6e9iX/view?usp=sharing" target="_blank">Resume</a> · <a href="mailto:cqnhatkhoa@gmail.com" target="_blank">Email</a> · <a href="https://khoacao.is-a.dev/" target="_blank">Portfolio Website</a> 
 </h3>
 
-Welcome to my GitHub profile! I'm a Computer Science student at the University of Wisconsin-Madison, passionate about creating impactful software solutions. I am particularly interested in Artificial Intelligence and Machine Learning, with a goal of applying innovative approaches to the healthcare industry. 
+Welcome to my GitHub profile! I'm a Computer Science student at the University of Wisconsin-Madison, passionate about creating impactful software solutions. I am particularly interested in backend developement + infra, with a goal of applying innovative approaches to the healthcare industry. 
 
 ## 🚀 About Me
 * 🎓 Computer Science Student @ University of Wisconsin-Madison (Graduating 2026)
@@ -18,9 +18,9 @@ Welcome to my GitHub profile! I'm a Computer Science student at the University o
 * 💻 Experienced in backend development (+ a little of frontend development), AI/machine learning, and data-driven solutions.
 
 ## 🏆 Awards
+* **HackMidwest** – AWS Track Winner (2025)
 * **MadData - AI/ML Hackathon** – Finalists (2025)
 * **CheeseHacks (Google-sponsored)** – Top 10 (2024)
-* **Machine Learning Marathon** – Third Prize (2024)
 * **AngelHack hackhcmc** – Finalists (2024)
 * **MadHacks** – Finalists (2023)
 
