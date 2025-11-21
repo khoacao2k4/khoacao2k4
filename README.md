@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a Computer Science student at the University o
 * 📘 Computer Science Tutor @ UW-Madison (Jan 2024 - Present)
 * 🤖 Micromouse Research Assistant @ VNU-HCM University of Science, Robotics & IoT Club (May 2022 - Aug 2022)
 
-* 💻 Experienced in backend development (+ a little of frontend development), AI/machine learning, and data-driven solutions.
+* 💻 Experienced in backend/frontend/fullstack development, AI/machine learning, and data-driven solutions.
 
 ## 🏆 Awards
 * **HackMidwest** – AWS Track Winner (2025)
